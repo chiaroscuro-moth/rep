@@ -1,6 +1,6 @@
 p {
   text-align:center;
-  font-family:fantasy;
+  font-family:monospace;
   color:blue;
 }
 
@@ -9,4 +9,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   border: 5px inset blue;
+}
+
+.alot {
+  margin: 10px;
+  padding: 10px;
 }
